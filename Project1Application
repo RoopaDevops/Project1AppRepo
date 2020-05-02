@@ -1,0 +1,17 @@
+public class Project1Application {
+
+
+
+	public static void main(String[] args) {
+
+		
+
+		System.out.println("Project 1: Application version 1");
+
+
+
+	}
+
+
+
+}
